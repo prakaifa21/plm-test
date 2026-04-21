@@ -1,0 +1,33 @@
+
+    
+{
+    "sectionIndex": 0,
+    "bomName" : "Test Bom",
+    "materialRef" : "062276",
+    "materialName" : "PangMat0009 Mechatonic",
+    "materialType" : "Fabrics",
+    "matcate" : "MESH",
+    "construction": "MESH",
+    "purchaseConversion" : "67",
+    "supplier": "N-0016 บริษัท 90 การพิมพ์ จำกัด (THAILAND)",
+    "technologyUOM": "Centimeter",
+    "perchaseUOM": "Centimeter",
+    "seriation": "127",
+    "partNo": "1002",
+    "partName": "ผ้าฝ้าย",
+    "sspUsage": "77" ,
+    "customer": "200104",
+    "supplyMode": "",
+    "Remark" : "ปก 2 ชั้น/ตัดต่อวงแขนพับทบ/สาบรองด้านใน",
+    "matchColor" : false,
+    "color": "Black",
+    "matchSize": false,
+    "specAdjustment" : "56/55",
+    "ssp" :"1",
+    "MatchCountry": false,
+    "partid": "1005",
+    "UsagePercent" :"1",
+    "UsageConfirm": true,
+    "MatchUsage" : true
+ 
+}
